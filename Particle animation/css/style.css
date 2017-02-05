@@ -1,0 +1,50 @@
+
+body {
+  
+  background:#b61924;
+  overflow:hidden;
+  margin-top:;
+}
+.enter
+{
+  color:white;
+  position:relative;
+  margin-top:17%;
+  margin-left:43%;
+  font-size:10px;
+  margin-right:0px;
+
+}
+ img
+{
+  -webkit-animation-delay:7s;
+}
+.enter 
+{
+  -webkit-animation-delay:7s;
+
+}
+svg
+{
+ margin-left:118%;
+ opacity:0.4;
+ -webkit-animation-delay:5s;
+ float:center;
+ margin-top:0;
+}
+img{
+  margin-top:-27.5%;
+  margin-left:43%;
+  position:relative;
+  height:38px;
+
+}
+
+canvas
+{
+  margin-top:-10%;
+  margin-left:-10%;
+  transition-delay:5s;
+  transition-timing-function:ease-in;
+  transition-duration: 5s;
+}
